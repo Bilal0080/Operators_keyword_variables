@@ -1,6 +1,4 @@
 
-@Author: Arif Kasim Rozani - (Team Operation Badar)
-
 Operator and Operand
 In Python (and programming in general), an operand is a value or variable that an operator acts on. Think of it like this:
 
